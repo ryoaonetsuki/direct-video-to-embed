@@ -1,15 +1,30 @@
 # Direct Video to Embed
 
-A lightweight web utility for working with direct video URLs and embed-ready output.
+A lightweight browser utility for converting direct video URLs into embed-ready output.
 
-## Overview
+## Requirements
 
-This project is a standalone HTML-based tool with no build system or backend dependency. Open `index.html` in a modern browser to use it.
-
-## Project Structure
-
-- `index.html` — complete web interface and client-side logic
+- A modern web browser
+- No server or build system required
 
 ## Usage
 
-Download or clone the repository and open `index.html` in your browser.
+Clone or download the repository:
+
+```bash
+git clone https://github.com/ryoaonetsuki/direct-video-to-embed.git
+```
+
+Open `index.html` in your browser, enter the supported video URL, and use the generated output provided by the interface.
+
+## Project Structure
+
+- `index.html` — complete client-side interface and logic
+
+## Development
+
+Edit `index.html` with a code editor and reload it in a browser to test changes.
+
+## Notes
+
+The tool runs locally in the browser. Do not use generated embeds to distribute content you do not have permission to share.
