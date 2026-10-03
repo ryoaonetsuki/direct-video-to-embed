@@ -15,11 +15,7 @@ Clone or download the repository:
 git clone https://github.com/ryoaonetsuki/direct-video-to-embed.git
 ```
 
-Open `index.html` in your browser, enter the supported video URL, and use the generated output provided by the interface.
-
-## Project Structure
-
-- `index.html` — complete client-side interface and logic
+Open `index.html` in a browser, enter a supported video URL, and use the generated output.
 
 ## Development
 
@@ -27,4 +23,4 @@ Edit `index.html` with a code editor and reload it in a browser to test changes.
 
 ## Notes
 
-The tool runs locally in the browser. Do not use generated embeds to distribute content you do not have permission to share.
+Use generated embeds only for content you have permission to share.
